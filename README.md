@@ -1,6 +1,8 @@
 # flutter
 flutter setup and running.
+
 Go throught the flutter docs
+
 download flutter_windows_1.22.1-stable.zip
 unzip this file a flutter folder will be generated.
 create a folder naming src and copy this flutter folder in  c: other than program folder
